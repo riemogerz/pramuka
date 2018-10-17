@@ -1,0 +1,26 @@
+site_name: Repositori Pramuka
+pages:
+  - 'Beranda': 'index.md'
+  - 'Peraturan Perundang-Undangan':
+    - 'Tinjauan': 'puu/index.md'
+    - 'Ketetapan MPR': 'puu/tap-mpr.md'
+    - 'Undang-Undang': 'puu/uu.md'
+    - 'Peraturan Pemerintah': 'puu/pp.md'
+    - 'Peraturan & Keputusan Presiden': 'puu/perpres.md'
+    - 'Peraturan & Keputusan Menteri': 'puu/permen.md'
+  - 'Peraturan Gerakan Pramuka':
+    - 'Tinjauan': 'pgp/index.md'
+    - 'AD & ART': 'pgp/adart.md'
+    - 'Keputusan Munas': 'pgp/kepmunas.md'
+    - 'Keputusan Mabinas': 'pgp/kepmabinas.md'
+    - 'Instruksi, Surat Keputusan & Keputusan Kwarnas': 'pgp/kepkwarnas.md'
+    - 'Surat Edaran Kwarnas': 'pgp/sedakwarnas.md'
+    - 'Peraturan Bersama / MoU': 'pgp/mou.md'
+  - 'Lain-lain':
+    - 'Tinjauan': 'dll/index.md'
+    - 'Sambutan-sambutan': 'dll/sambutan.md'
+theme: 'readthedocs'
+repo_name: 'GitHub'
+repo_url: 'https://github.com/riemogerz/pramuka
+markdown_extensions:
+  - admonition
